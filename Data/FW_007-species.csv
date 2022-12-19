@@ -1,0 +1,82 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Atlantic silverside and bay anchovies","Animals","Predator",10,100,1
+"Atlantic silverside and bay anchovies","Animals","Prey",2,3.5,1
+"Bacterioplankton","Animals","Predator",1,100,1
+"Bacterioplankton","Animals","Prey",3,68,1
+"Benthic bacteria","Animals","Predator",1,100,1
+"Benthic bacteria","Animals","Prey",8,95.5,1
+"Benthos-eating birds","Animals","Predator",8,98,1
+"Blue crabs","Animals","Predator",6,90,1
+"Blue crabs","Animals","Prey",1,0.5,1
+"Brittle stars","Animals","Predator",5,100,1
+"Brittle stars","Animals","Prey",1,8.5,1
+"Catfish and stingrays","Animals","Predator",5,10,1
+"Catfish and stingrays","Animals","Prey",1,19,1
+"Deposit-feeding gastropods","Animals","Predator",5,100,1
+"Deposit-feeding gastropods","Animals","Prey",6,183.5,1
+"Deposit-feeding peracaridan crustaceans","Animals","Predator",4,100,1
+"Deposit-feeding peracaridan crustaceans","Animals","Prey",13,101.1,1
+"Deposit-feeding polychaetes","Animals","Prey",10,62.9,1
+"Deposit-feeding polychaetes","Animals","Predator",5,95,1
+"Epiphyte-grazing amphipods","Animals","Prey",12,179.1,1
+"Epiphyte-grazing amphipods","Animals","Predator",4,100,1
+"Epiphyte-grazing gastropods","Animals","Predator",1,100,1
+"Epiphyte-grazing gastropods","Animals","Prey",1,0.5,1
+"Fish and crustacean-eating birds","Animals","Predator",9,51,1
+"Fish-eating birds","Animals","Predator",3,6.5,1
+"Gobies and blennies","Animals","Predator",7,100,1
+"Gobies and blennies","Animals","Prey",1,1,1
+"Gulf flounder and needlefish","Animals","Prey",2,9,1
+"Gulf flounder and needlefish","Animals","Predator",2,100,1
+"Gulls","Animals","Predator",6,14.5,1
+"Herbivorous ducks","Animals","Predator",4,89,1
+"Herbivorous shrimps","Animals","Prey",5,20.5,1
+"Herbivorous shrimps","Animals","Predator",2,100,1
+"Hermit crabs","Animals","Predator",4,100,2
+"Hermit crabs","Animals","Prey",7,115.5,2
+"Isopods","Animals","Prey",3,45.5,2
+"Isopods","Animals","Predator",2,100,2
+"Killifishes","Animals","Prey",2,2,1
+"Killifishes","Animals","Predator",8,100,1
+"Meiofauna","Animals","Prey",13,286.4,2
+"Meiofauna","Animals","Predator",5,100,2
+"Microfauna","Animals","Prey",7,18.5,2
+"Microfauna","Animals","Predator",4,100,2
+"Microprotozoa","Animals","Prey",3,14,1
+"Microprotozoa","Animals","Predator",4,100,1
+"Omnivorous crabs","Animals","Prey",7,17.5,1
+"Omnivorous crabs","Animals","Predator",10,100,1
+"Other gastropods","Animals","Predator",1,100,1
+"Other gastropods","Animals","Prey",3,2.5,1
+"Pinfish","Animals","Predator",9,100,2
+"Pinfish","Animals","Prey",3,4,2
+"Pipefish and seahorses","Animals","Predator",10,100,1
+"Pipefish and seahorses","Animals","Prey",2,9.5,1
+"Predatory gastropods","Animals","Predator",3,100,1
+"Predatory polychaetes","Animals","Prey",8,22.7,1
+"Predatory polychaetes","Animals","Predator",10,100,1
+"Predatory shrimps","Animals","Predator",12,100,1
+"Predatory shrimps","Animals","Prey",7,36.5,1
+"Raptors","Animals","Predator",4,31,1
+"Red drum","Animals","Predator",12,46.5,1
+"Red drum","Animals","Prey",1,2,1
+"Sheepshead minnow","Animals","Predator",7,100,1
+"Sheepshead minnow","Animals","Prey",5,6.3,1
+"Southern hake and sea robins","Animals","Predator",6,100,1
+"Southern hake and sea robins","Animals","Prey",3,3.5,1
+"Spider crabs","Animals","Predator",3,100,1
+"Spot","Animals","Predator",9,100,1
+"Spot","Animals","Prey",8,231.2,1
+"Suspension-feeding molluscs","Animals","Predator",3,100,1
+"Suspension-feeding molluscs","Animals","Prey",4,2,1
+"Suspension-feeding polychaetes","Animals","Predator",2,100,1
+"Suspension-feeding polychaetes","Animals","Prey",6,4.9,1
+"Tonguefish","Animals","Predator",2,100,1
+"Zooplankton","Animals","Predator",3,100,15
+"Zooplankton","Animals","Prey",8,25.5,15
+"Benthic algae","Plants","Prey",13,403,1
+"Halodule","Plants","Prey",8,289.5,1
+"Macro-epiphytes","Plants","Prey",3,162,1
+"Micro-epiphytes","Plants","Prey",9,349,1
+"Phytoplankton","Plants","Prey",7,381.9,14
+"Detritus","Undefined","Prey",15,543.5,27

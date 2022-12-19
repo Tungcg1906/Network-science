@@ -1,0 +1,58 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Bivalves","Animals","Prey",4,1,3
+"Bivalves","Animals","Predator",9,0.626,3
+"Catfish","Animals","Prey",14,0.999,1
+"Catfish","Animals","Predator",9,1.297,1
+"Crayfish","Animals","Prey",4,1,2
+"Crayfish","Animals","Predator",3,0.031,2
+"Croakers","Animals","Predator",6,0.258,1
+"Croakers","Animals","Prey",12,0.999,1
+"Fat Sleepers","Animals","Predator",4,0.041,1
+"Fat Sleepers","Animals","Prey",5,1,1
+"Flatfish","Animals","Prey",9,1,1
+"Flatfish","Animals","Predator",7,0.123,1
+"Gastropods","Animals","Predator",9,0.254,2
+"Gastropods","Animals","Prey",6,1.001,2
+"Gobies","Animals","Predator",9,0.594,1
+"Gobies","Animals","Prey",8,1.001,1
+"Halfbeaks","Animals","Predator",3,0.103,1
+"Halfbeaks","Animals","Prey",7,1,1
+"Herrings","Animals","Predator",9,0.566,1
+"Herrings","Animals","Prey",8,1,1
+"Infauna","Animals","Prey",5,1,1
+"Infauna","Animals","Predator",23,3.768,1
+"Jacks","Animals","Prey",12,1.001,1
+"Jacks","Animals","Predator",5,0.054,1
+"Mexican mojarras","Animals","Prey",10,1,1
+"Mexican mojarras","Animals","Predator",3,0.298,1
+"Mojarras","Animals","Predator",16,1.965,1
+"Mojarras","Animals","Prey",5,1,1
+"Mollies","Animals","Prey",8,0.999,1
+"Mollies","Animals","Predator",7,0.046,1
+"Mullets","Animals","Predator",6,0.063,2
+"Mullets","Animals","Prey",7,0.999,2
+"Needlefish","Animals","Predator",1,0.007,1
+"Needlefish","Animals","Prey",13,0.999,1
+"Pinfish","Animals","Predator",2,0.012,2
+"Pinfish","Animals","Prey",9,1.001,2
+"Polychaetes","Animals","Prey",6,1.001,3
+"Polychaetes","Animals","Predator",6,0.883,3
+"Rays","Animals","Prey",15,1.002,1
+"Rays","Animals","Predator",1,0.005,1
+"Sea mammals","Animals","Predator",1,0.001,1
+"Sea mammals","Animals","Prey",6,0.999,1
+"Shrimp","Animals","Prey",6,1,1
+"Shrimp","Animals","Predator",10,0.971,1
+"Snappers","Animals","Prey",11,1,1
+"Snappers","Animals","Predator",2,0.004,1
+"Snooks","Animals","Predator",4,0.049,1
+"Snooks","Animals","Prey",16,0.998,1
+"Swimming crabs","Animals","Predator",9,0.154,1
+"Swimming crabs","Animals","Prey",9,1,1
+"Toadfish","Animals","Predator",2,0.1,1
+"Toadfish","Animals","Prey",10,1,1
+"Zooplankton","Animals","Prey",4,1,15
+"Zooplankton","Animals","Predator",18,3.352,15
+"Phytoplankton","Plants","Predator",13,3.817,14
+"Wigeongrass","Plants","Predator",21,5.726,1
+"Detritus","Undefined","Predator",11,1.831,27

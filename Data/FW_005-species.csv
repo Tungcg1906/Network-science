@@ -1,0 +1,80 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Adult hake","Animals","Predator",22,1.002,1
+"Adult hake","Animals","Prey",4,0.652,1
+"Anchovy","Animals","Predator",1,1,1
+"Anchovy","Animals","Prey",14,1.5,1
+"Anglerfishes","Animals","Predator",9,1.001,1
+"Benthic cephalopods","Animals","Predator",16,0.9982,1
+"Benthic cephalopods","Animals","Prey",25,0.6704,1
+"Benthic invertebrates C","Animals","Prey",16,0.7971,1
+"Benthic invertebrates C","Animals","Predator",7,1,1
+"Benthic invertebrates FDS","Animals","Predator",1,1,1
+"Benthic invertebrates FDS","Animals","Prey",18,1.4954,1
+"Benthopelagic cephalopods","Animals","Prey",13,0.721,1
+"Benthopelagic cephalopods","Animals","Predator",18,1.0005,1
+"Bivalves","Animals","Prey",15,1.1294,3
+"Bivalves","Animals","Predator",2,1,3
+"Blue whiting","Animals","Predator",8,1,1
+"Blue whiting","Animals","Prey",5,0.082,1
+"Commercial sparids 1","Animals","Prey",3,0.04,1
+"Commercial sparids 1","Animals","Predator",16,1,1
+"Commercial sparids 2","Animals","Prey",2,0.414,1
+"Commercial sparids 2","Animals","Predator",17,1,1
+"Common octopus","Animals","Predator",9,1.0001,1
+"Common octopus","Animals","Prey",4,0.01,1
+"Crabs","Animals","Predator",13,0.999,2
+"Crabs","Animals","Prey",23,2.075,2
+"Deep-sea fishes","Animals","Prey",7,0.094,1
+"Deep-sea fishes","Animals","Predator",12,0.9999,1
+"Demersal fishes","Animals","Prey",8,0.2702,1
+"Demersal fishes","Animals","Predator",20,0.9998,1
+"Demersal piscivores","Animals","Predator",24,0.9993,1
+"Demersal piscivores","Animals","Prey",4,0.023,1
+"Dolphins","Animals","Predator",18,1,1
+"Flatfishes","Animals","Prey",10,0.218,1
+"Flatfishes","Animals","Predator",18,1.0012,1
+"Gelatinous zooplankton","Animals","Prey",7,0.184,1
+"Gelatinous zooplankton","Animals","Predator",4,1,1
+"Horse mackerels","Animals","Prey",9,0.3384,1
+"Horse mackerels","Animals","Predator",5,1.001,1
+"Import","Animals","Prey",2,0.852,4
+"Juvenile hake","Animals","Predator",14,1,1
+"Juvenile hake","Animals","Prey",8,0.3193,1
+"Killer whales","Animals","Predator",6,1,1
+"Large benthopelagic fishes","Animals","Predator",7,1.001,1
+"Large benthopelagic fishes","Animals","Prey",5,0.13,1
+"Loggerhead turtles","Animals","Predator",6,1,1
+"Mackerels","Animals","Prey",7,0.798,1
+"Mackerels","Animals","Predator",9,1.001,1
+"Macrozooplankton","Animals","Predator",3,1,1
+"Macrozooplankton","Animals","Prey",24,3.8873,1
+"Mantis shrimp","Animals","Predator",8,1,1
+"Mantis shrimp","Animals","Prey",4,0.01,1
+"Meso and microzooplankton","Animals","Prey",16,4.237,1
+"Meso and microzooplankton","Animals","Predator",1,1,1
+"Mullets","Animals","Prey",1,0.001,2
+"Mullets","Animals","Predator",13,1.001,2
+"Norway lobster","Animals","Predator",12,0.999,1
+"Norway lobster","Animals","Prey",2,0.025,1
+"Polychaetes","Animals","Prey",17,1.314,3
+"Polychaetes","Animals","Predator",2,1,3
+"Rose shrimp","Animals","Predator",12,1,1
+"Rose shrimp","Animals","Prey",12,0.285,1
+"Sardine","Animals","Predator",2,1,1
+"Sardine","Animals","Prey",10,1.258,1
+"Seabirds","Animals","Predator",9,1.001,1
+"Seabirds","Animals","Prey",1,0,1
+"Sharks","Animals","Predator",26,0.9991,1
+"Sharks","Animals","Prey",3,0.0073,1
+"Shrimps","Animals","Prey",28,2.991,2
+"Shrimps","Animals","Predator",10,0.999,2
+"Skates","Animals","Predator",14,1.001,1
+"Small benthopelagic fishes","Animals","Predator",6,1,1
+"Small benthopelagic fishes","Animals","Prey",17,0.9212,1
+"Small demersal fishes","Animals","Prey",20,1.214,1
+"Small demersal fishes","Animals","Predator",10,1,1
+"Suprabenthos","Animals","Prey",24,3.3081,1
+"Suprabenthos","Animals","Predator",3,1,1
+"Discard","Plants","Prey",4,0.635,1
+"Phytoplankton","Plants","Prey",10,1.963,14
+"Detritus","Undefined","Prey",11,5.134,27

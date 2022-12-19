@@ -1,0 +1,77 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Acestrorhyncus lacustris","Animals","Predator",8,1,2
+"Acestrorhyncus lacustris","Animals","Prey",2,0.2,2
+"Astyanax altiparanae","Animals","Prey",14,1.9,3
+"Astyanax altiparanae","Animals","Predator",7,1,3
+"Auchenipterus nuchalis","Animals","Prey",3,0.3,4
+"Auchenipterus nuchalis","Animals","Predator",3,1,4
+"Benthos","Animals","Predator",2,1,2
+"Benthos","Animals","Prey",13,2.05,2
+"Brycon orbignyanus","Animals","Predator",4,1,1
+"Brycon orbignyanus","Animals","Prey",2,0.2,1
+"Cyphocharax modestus","Animals","Prey",1,0.1,1
+"Cyphocharax modestus","Animals","Predator",3,1,1
+"Hemisorubin platyrhynchos","Animals","Predator",7,1,1
+"Hemisorubin platyrhynchos","Animals","Prey",1,0.1,1
+"Hoplias malabaricus","Animals","Prey",2,0.4,5
+"Hoplias malabaricus","Animals","Predator",6,1,5
+"Hoplosternum littorale","Animals","Predator",5,1,1
+"Hoplosternum littorale","Animals","Prey",1,0.3,1
+"Hypophthalmus edentatus","Animals","Predator",2,1,3
+"Hypophthalmus edentatus","Animals","Prey",3,0.3,3
+"Hypostomus sp","Animals","Prey",1,0.2,3
+"Hypostomus sp","Animals","Predator",2,1,3
+"Iheringichthys labrosus","Animals","Predator",5,1,2
+"Iheringichthys labrosus","Animals","Prey",1,0.2,2
+"Insects","Animals","Prey",16,4.6,2
+"Insects","Animals","Predator",2,1,2
+"Leporinus friderici","Animals","Prey",2,0.15,3
+"Leporinus friderici","Animals","Predator",7,1,3
+"Leporinus obtusidens","Animals","Prey",3,0.4,2
+"Leporinus obtusidens","Animals","Predator",7,1,2
+"Loricariichthys platymetopon","Animals","Prey",1,0.15,1
+"Loricariichthys platymetopon","Animals","Predator",4,1,1
+"Other benthos feeders","Animals","Prey",4,0.4,1
+"Other benthos feeders","Animals","Predator",6,1,1
+"Other insectivores","Animals","Predator",4,1,2
+"Other insectivores","Animals","Prey",7,0.6,2
+"Other omnivores","Animals","Predator",7,1,2
+"Other omnivores","Animals","Prey",8,0.85,2
+"Other piscivores","Animals","Prey",2,0.2,1
+"Other piscivores","Animals","Predator",8,1,1
+"Parauchenipterus galeatus","Animals","Predator",2,1,2
+"Parauchenipterus galeatus","Animals","Prey",2,0.35,2
+"Pimelodus maculatus","Animals","Prey",1,0.25,1
+"Pimelodus maculatus","Animals","Predator",11,1,1
+"Plagioscion squamosissimus","Animals","Prey",2,0.3,1
+"Plagioscion squamosissimus","Animals","Predator",7,1,1
+"Prochilodus lineatus","Animals","Predator",3,1,2
+"Prochilodus lineatus","Animals","Prey",7,1.25,2
+"Pseudoplatystoma corruscans","Animals","Prey",2,0.1,3
+"Pseudoplatystoma corruscans","Animals","Predator",7,1,3
+"Pterodoras granulosus","Animals","Prey",3,0.4,2
+"Pterodoras granulosus","Animals","Predator",6,1,2
+"Rhaphiodon vulpinus","Animals","Prey",1,0.1,2
+"Rhaphiodon vulpinus","Animals","Predator",7,1,2
+"Salminus brasiliensis","Animals","Prey",1,0.05,1
+"Salminus brasiliensis","Animals","Predator",7,1,1
+"Schizodon altoparanae","Animals","Prey",1,0.1,1
+"Schizodon altoparanae","Animals","Predator",2,1,1
+"Schizodon borellii","Animals","Prey",2,0.2,4
+"Schizodon borellii","Animals","Predator",2,1,4
+"Serrasalmus marginatus","Animals","Prey",5,0.45,1
+"Serrasalmus marginatus","Animals","Predator",11,1,1
+"Serrasalmus spilopleura","Animals","Prey",1,0.1,1
+"Serrasalmus spilopleura","Animals","Predator",9,1,1
+"Steindachnerina insculpta","Animals","Predator",3,1,1
+"Steindachnerina insculpta","Animals","Prey",1,0.2,1
+"Trachydoras paraguayensis","Animals","Prey",1,0.1,4
+"Trachydoras paraguayensis","Animals","Predator",3,1,4
+"Zooplankton","Animals","Predator",2,1,15
+"Zooplankton","Animals","Prey",11,2.1,15
+"Aquatic macrophytes","Plants","Prey",14,4.3,1
+"Periphyton","Plants","Prey",3,0.7,2
+"Phytoplankton","Plants","Prey",17,3.15,14
+"Detritus","Undefined","Prey",19,7.8,27
+"Other detritus feeders","Undefined","Predator",4,1,1
+"Other detritus feeders","Undefined","Prey",4,0.4,1

@@ -1,0 +1,52 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Ariidae","Animals","Prey",2,0.1,1
+"Ariidae","Animals","Predator",8,1,1
+"Aristeu varidens","Animals","Predator",1,1,1
+"Aristeu varidens","Animals","Prey",1,0.2,1
+"Cephalopodes","Animals","Predator",9,1,1
+"Condrichtis","Animals","Predator",6,1,1
+"Condrichtis","Animals","Prey",1,0.05,1
+"Demersal fish","Animals","Predator",4,1,1
+"Demersal fish","Animals","Prey",4,0.25,1
+"Dentex","Animals","Predator",7,1,1
+"Dentex","Animals","Prey",1,0.05,1
+"Haemulidae","Animals","Predator",5,1,1
+"Haemulidae","Animals","Prey",1,0.1,1
+"Large pelagics","Animals","Prey",1,0.15,1
+"Large pelagics","Animals","Predator",6,1,1
+"Large Zoo","Animals","Prey",12,3.42,1
+"Large Zoo","Animals","Predator",3,1,1
+"Macrobenthos","Animals","Predator",4,1,1
+"Macrobenthos","Animals","Prey",10,1.88,1
+"Marine birds","Animals","Predator",6,1,1
+"Marine mammals","Animals","Predator",8,1,1
+"Merluccius","Animals","Predator",9,1,1
+"Merluccius","Animals","Prey",4,0.74,1
+"Mesopelagics","Animals","Prey",5,0.75,1
+"Mesopelagics","Animals","Predator",2,1,1
+"Middlebenthos","Animals","Prey",12,2,1
+"Middlebenthos","Animals","Predator",2,1,1
+"Miscelaneous","Animals","Prey",10,1.41,1
+"Miscelaneous","Animals","Predator",5,1,1
+"Parapenaeus longirostris","Animals","Prey",2,0.3,1
+"Parapenaeus longirostris","Animals","Predator",1,1,1
+"Penaeus","Animals","Predator",1,1,1
+"Penaeus","Animals","Prey",2,0.2,1
+"Polynemidae","Animals","Predator",5,1,1
+"Polynemidae","Animals","Prey",2,0.14,1
+"Pseudotolithus","Animals","Prey",1,0.05,1
+"Pseudotolithus","Animals","Predator",8,1,1
+"Sardinella","Animals","Predator",5,1,1
+"Sardinella","Animals","Prey",10,1.25,1
+"Sciaenidae","Animals","Predator",5,1,1
+"Sciaenidae","Animals","Prey",2,0.16,1
+"Serranidae","Animals","Predator",7,1,1
+"Serranidae","Animals","Prey",3,0.35,1
+"Small pelagics","Animals","Prey",9,1.2,1
+"Small pelagics","Animals","Predator",4,1,1
+"Small Zoo","Animals","Prey",13,3,1
+"Small Zoo","Animals","Predator",2,1,1
+"Trachurus","Animals","Predator",4,1,1
+"Trachurus","Animals","Prey",2,0.15,1
+"Phytoplankton","Plants","Prey",8,2.6,14
+"Detritus","Undefined","Prey",9,5.5,27
